@@ -36,12 +36,20 @@
             android:layout_width="match_parent"
             android:layout_height="14dp" />
 
-        <ListView
-            android:id="@id/android:list"
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="465dp">
+            android:layout_height="match_parent"
+            android:orientation="vertical">
 
-        </ListView>
+            <ListView
+                android:id="@id/android:list"
+                android:layout_width="match_parent"
+                android:layout_height="465dp"
+                android:listSelector="@color/naranja">
+
+            </ListView>
+        </LinearLayout>
+
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
