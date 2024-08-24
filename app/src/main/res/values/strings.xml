@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">MiRestaurante_DondeToño</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="app_menu">Conoce nuestro menu</string>
+    <string name="app_sede">Visita nuestras sedes</string>
+    <string name="app_reserva">Realiza tu reserva</string>
+    <string name="app_pedido">Realiza tu pedido</string>
+
+
+    // ENTRADAS
+    <string name="entrada1">Bruschetta Clásica</string>
+    <string name="entrada2">Carpaccio de Res</string>
+    <string name="entrada3">Empanadas de Pollo</string>
+
+    <string name="ingentrada1"> Rebanadas de pan tostado con tomate fresco, albahaca, ajo y aceite de oliva.</string>
+    <string name="ingentrada2"> Finas lonchas de res servidas con rúcula, parmesano y un toque de aceite de trufa.</string>
+    <string name="ingentrada3">Masa dorada rellena de pollo sazonado, cebolla y especias, servidas con salsa criolla.</string>
+
+    <string name="pre_entrada1">$10.500</string>
+    <string name="pre_entrada2">$25.000</string>
+    <string name="pre_entrada3">$10.000</string>
+
+    //FUERTES
+    <string name="Fuerte1">Pastas a la carbonara</string>
+    <string name="Fuerte2">lasaña de Pollo</string>
+    <string name="Fuerte3">Pizza Artesanal</string>
+
+    <string name="ingreF1">: Espaguetis al dente, guanciale crujiente y una cremosa salsa de queso y huevos.
+        ¡Auténtica y deliciosa!</string>
+    <string name="ingreF2">: Capas de pasta suave, jugosa pechuga de pollo,
+        salsa bechamel cremosa y queso gratinado. ¡Irresistiblemente deliciosa!</string>
+    <string name="ingreF3"> Hecha a mano con masa fresca, ingredientes de calida y cocida en
+        horno de leña para un sabor auténtico y crujiente. ¡Una experiencia única en cada bocado!</string>
+
+    <string name="pre_F1">$35.000</string>
+    <string name="pre_F2">$25.000</string>
+    <string name="pre_F3"> Pepperoni y miel $40.000</string>
+    <string name="pre_F3_1">Napolitana $34.000</string>
+    <string name="pre_F3_2">Pollo y tocineta $35.000</string>
+
+    //POSTRES
+    <string name="Postre1">Brownie con helado</string>
+    <string name="Postre2">Fresas con crema</string>
+    <string name="Postre3">Galleta con helado</string>
+
+    <string name="ingreP1">Brownie mecolchudo con helado a tu eleccion acompañado con crema batida y salsa de tu
+    preferencia </string>
+    <string name="ingreP2">Crema badita de la casa con fresas frescas y toppings a tu eleccion</string>
+    <string name="ingreP3">Galleta de chips de chocolate o red velvet acompañada con helado de tu preferencia </string>
+
+    <string name="pre_P1">$10.000</string>
+    <string name="pre_P2">$10.000</string>
+    <string name="pre_P3">$10.000</string>
+
+    <string name="Bebida1">Gaseosas</string>
+    <string name="Bebida2">Botella de Agua</string>
+    <string name="Bebida3">Sodas Saborizadas</string>
+
+    // BEBIDAS
+    <string name="ingreB1">Coca-cola, Manzana, Uva o Colombiana</string>
+    <string name="ingreB2">Con gas o sin gas</string>
+    <string name="ingreB3">Frutos rojos, Frutos amarillos, Cerezada O mango </string>
+
+    <string name="pre_B1">$8.000</string>
+    <string name="pre_B2">$6.000</string>
+    <string name="pre_B3">$10.000</string>
+
+</resources>
