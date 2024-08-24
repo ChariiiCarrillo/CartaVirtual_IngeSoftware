@@ -16,6 +16,12 @@
         tools:layout_editor_absoluteY="0dp">
 
 
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="255dp"
+            android:layout_height="344dp"
+            android:src="@drawable/dondetono" />
+
         <TextView
             android:id="@+id/textView"
             android:layout_width="wrap_content"
@@ -28,7 +34,7 @@
 
         <Space
             android:layout_width="match_parent"
-            android:layout_height="91dp" />
+            android:layout_height="14dp" />
 
         <ListView
             android:id="@id/android:list"

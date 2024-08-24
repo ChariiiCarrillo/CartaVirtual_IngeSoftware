@@ -42,6 +42,7 @@
                     android:id="@+id/textViewProduc"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:backgroundTint="@color/naranja"
                     android:fontFamily="abril_fatface"
                     android:foregroundTint="@color/black"
                     android:text="TextView"
